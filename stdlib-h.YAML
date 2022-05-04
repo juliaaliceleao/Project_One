@@ -1,0 +1,9 @@
+---
+library
+name: stdlib.h
+functions:
+  Dynamic memory management:
+    - calloc: "Allocate zero-initialize array"
+    - malloc: "Allocate memory block"
+    - realloc: "Reallocate memory block"
+    - free: "Desallocate memory block"
