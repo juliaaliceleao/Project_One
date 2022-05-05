@@ -1,0 +1,7 @@
+
+---
+  string.h:
+    - strlen
+    - strcmp
+    - strcpy
+    - strcat
