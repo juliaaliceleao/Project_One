@@ -1,0 +1,14 @@
+---
+  
+  strlen:
+    oq_faz: "retorna tamanho da string"
+    n_params: 1
+  strcmp:
+    oq_faz: "compara duas strings"
+    n_params: 2
+  strcpy:
+    oq_faz: "copia string origem na string destino"
+    n_params: 2
+  strcat:
+    oq_faz: "junta string origem em string destino"
+    n_params: 2
